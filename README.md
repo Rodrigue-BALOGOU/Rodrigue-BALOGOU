@@ -1,170 +1,169 @@
-# 👋 Hi, I'm Rodrigue Balogou
+# Rodrigue Balogou
 
-### Systems & Network Security Student | Enterprise Infrastructure | Windows Server | Active Directory | Blue Team
+### Future Infrastructure & Cybersecurity Engineer
 
-I design and secure enterprise IT infrastructures by building realistic laboratory environments that reproduce production networks.
-
-My work focuses on helping organizations strengthen the security, availability, and administration of their information systems through network segmentation, Windows infrastructure management, monitoring, centralized logging, and security hardening.
+Building secure, reliable and enterprise-ready IT infrastructures through hands-on projects.
 
 ---
 
-## What I Do
+## About Me
 
-I build practical cybersecurity projects around:
+I'm a Systems & Network Security student passionate about building enterprise infrastructures that are secure, reliable and well documented.
 
-- Active Directory administration
-- Windows Server infrastructure
-- Enterprise network architecture
-- Network segmentation (VLAN & DMZ)
-- Firewall configuration with pfSense
-- Windows security hardening
-- Monitoring and alerting
-- Centralized log collection
-- Access control with Group Policy
-- Attack simulation and defensive validation
+My journey started with Windows Server and Active Directory administration. As I progressed, I realized that protecting an information system goes far beyond configuring servers—it requires understanding how infrastructure, networking, monitoring and security work together.
 
-Rather than only studying concepts, I implement them in complete enterprise environments to understand how systems operate in real-world scenarios.
+Today, I design realistic enterprise laboratory environments where I deploy, secure, monitor and document complete infrastructures inspired by real-world business environments. Every project helps me strengthen both my technical expertise and my problem-solving skills.
+
+I'm currently looking for an internship where I can contribute, learn from experienced professionals and continue growing in Infrastructure and Cybersecurity.
 
 ---
 
-## What Value Can I Bring?
+## What I Bring
 
-I help organizations:
+I enjoy solving technical challenges by designing practical and organized solutions.
 
-- Secure Windows infrastructures
-- Improve network segmentation
-- Reduce attack surfaces
-- Centralize event monitoring
-- Strengthen endpoint security
-- Apply security best practices
-- Document infrastructures professionally
-- Build repeatable deployment procedures
+Through my projects, I focus on helping organizations build IT environments that are:
 
-My objective is always to combine security, stability, and maintainability.
+- Secure by design
+- Well organized and documented
+- Easy to maintain
+- Ready for monitoring and future improvements
+
+Beyond learning technologies, I continuously develop the ability to understand problems, analyze infrastructures and build solutions based on industry best practices.
 
 ---
 
-## Current Technical Skills
-
-### Operating Systems
-
-- Windows Server 2022
-- Windows 10 / 11
-- Linux (Ubuntu)
+## Core Competencies
 
 ### Infrastructure
 
+- Windows Server
 - Active Directory
 - DNS
 - DHCP
 - Group Policy (GPO)
-- File Server
-- Windows Event Forwarding
+- File Server Administration
 
 ### Networking
 
 - TCP/IP
+- Network Segmentation
 - VLAN
-- DMZ
 - Routing
-- Firewall Rules
 - NAT
+- DMZ
+- pfSense Firewall
 
 ### Security
 
-- pfSense
 - Windows Hardening
 - Access Control
-- Least Privilege
 - Security Baselines
-- Log Analysis
-
-### Monitoring
-
-- Zabbix
+- Windows Event Forwarding (WEF)
 - NXLog
-- Event Viewer
+- Suricata
+- Zabbix Monitoring
 
-### Virtualization
+### Development
+
+- Python
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Bootstrap
+
+### Tools
 
 - VMware Workstation
-
-### Version Control
-
+- VirtualBox
 - Git
 - GitHub
+- VS Code
+- Draw.io
+- Kali Linux
+- Nmap
+- Metasploit
+- Burp Suite
 
 ---
 
-## Programming & Scripting
+## Featured Projects
 
-- PowerShell (Intermediaire)
-- Bash (Intermediaire)
-- Python (Intermediaire)
-- JavaScript (Basics)
+### Enterprise Security Lab
+
+A realistic enterprise infrastructure designed to reproduce production-like environments.
+
+The project combines Windows Server, Active Directory, pfSense, network segmentation, centralized logging, monitoring and Windows hardening to strengthen enterprise administration and defensive cybersecurity skills.
+
+---
+
+### Planify
+
+An event management web application developed with PHP, HTML, CSS and JavaScript.
+
+The platform allows organizers to publish events, participants to book tickets and administrators to manage the entire application. It also integrates secure online payments through Fedapay.
+
+---
+
+### Active Directory Administration Lab
+
+A practical Windows Server project focused on enterprise identity management.
+
+This laboratory covers Active Directory, Organizational Units, DNS, DHCP, Group Policy and user administration. It became the foundation of my Enterprise Security Lab.
 
 ---
 
 ## Currently Learning
 
+I'm continuously improving my skills in:
+
+- Proxmox VE
 - Microsoft Sentinel
 - Wazuh
-- Proxmox VE
+- Microsoft Azure
+- Infrastructure Automation
 - Detection Engineering
 - Incident Response
-- Infrastructure Automation
-- Microsoft Azure
-
----
-
-## Featured Project
-
-### Enterprise Security Lab
-
-A complete enterprise security laboratory including:
-
-- Active Directory Domain Services
-- Windows Server
-- pfSense Firewall
-- DMZ Architecture
-- Enterprise Clients
-- Monitoring with Zabbix
-- Windows Event Forwarding
-- Security Hardening
-- Attack & Defense Scenarios
-
-This project reproduces a realistic enterprise environment for learning, experimentation, documentation, and continuous improvement.
 
 ---
 
 ## Soft Skills
 
-- Analytical thinking
-- Problem solving
-- Documentation
-- Continuous learning
-- Team collaboration
 - Curiosity
+- Autonomy
+- Communication
 - Adaptability
-- Attention to detail
+- Fast Learner
+- Problem Solving
+
+---
+
+## Career Objective
+
+My objective is to become an Infrastructure & Cybersecurity Engineer capable of designing, securing and monitoring enterprise IT environments.
+
+As a first professional step, I'm particularly interested in internship opportunities and early-career roles in Systems Administration, Infrastructure or SOC Operations, where I can contribute while continuing to learn from experienced teams.
 
 ---
 
 ## Let's Connect
 
-I'm always interested in discussing:
+I'm always open to discussing:
 
 - Enterprise Infrastructure
-- Windows Administration
+- Active Directory
+- Windows Server
 - Cybersecurity
 - Blue Team
-- Active Directory
 - Networking
-- Open-source projects
-- Internship and collaboration opportunities
+- Open Source Projects
+- Internship Opportunities
+- Technical Collaboration
 
-If you're working on infrastructure or cybersecurity projects, I'd be happy to connect and learn together.
+If you're working on infrastructure or cybersecurity projects, feel free to connect. I'm always happy to learn, share ideas and collaborate.
 
 ---
 
-> "Security is not only about protecting systems; it's about designing infrastructures that remain reliable, resilient, and manageable."
+> **Building secure infrastructures through practice, curiosity and continuous learning.**

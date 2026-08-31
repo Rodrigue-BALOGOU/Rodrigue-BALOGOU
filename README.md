@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Rodrigue Balogou Banner" width="100%">
-</p>
+</p
+  
 ### Future Infrastructure & Cybersecurity Engineer
 
 Building secure, reliable and enterprise-ready IT infrastructures through hands-on projects.
